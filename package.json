@@ -1,0 +1,11 @@
+{
+    "name": "album-cover",
+    "version": "1.0.0",
+    "description": "Disponibiliza a capa do álbum correspondente à URL inserida pelo usuário!",
+    "main": "scripts/script.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Ian M. Vianna",
+    "license": "ISC"
+}
